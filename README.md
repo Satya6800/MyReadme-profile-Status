@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Republic of Developer</h1>
+<h1 align="center">Hi 👋 I'm Choun Satya Republic of Developer</h1>
 
 ###
 
